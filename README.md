@@ -1,9 +1,12 @@
 # Currency Converter
 
-## Convert Button
-Select currency 1 from left dropdown and it's value from left input and convert to right dropdown currency
-Display's value of currency 2 in right input field
-[Convert Button.odg](https://github.com/DASH0070/Currency-Converter/files/9731314/Convert.Button.odg)
+## Convert Button!
+![](https://user-images.githubusercontent.com/114388400/194490909-acca1615-fe8f-4aeb-9151-8c9c04c6c17f.png)
+
+Select currency 1  and convert currency 2
+Display's value of currency 2 in input field
 ## Exchange Button
-[Convert Button.odg](https://github.com/DASH0070/Currency-Converter/files/9731314/Convert.Button.odg)
-![Convert Button](https://user-images.githubusercontent.com/114388400/194484981-cb62d64c-c4dc-480a-a605-07b62a075f99.png)
+![](https://user-images.githubusercontent.com/114388400/194491625-36a5c1d6-3cbd-4c51-83f8-23ab0b5132cd.png)
+
+Set Currency 1 as Currency 2 and Currency 2 as Currency 1
+
