@@ -22,10 +22,10 @@ Second is their Full Name.
 This function uses simple mathematics to evaluate desired currency.  
 which is :  
 let y, z be object and n, m be quantity  
-1x = ny  
-1x = mz  
-then 1y = mz/n  
-hence ky = k*mz/n  
+1*x = n*y  
+1*x = m*z  
+then 1*y = m*z/n  
+hence k*y = k*m*z/n  
 
 ### Function to Exhchange Currency
 This function replace the value inside both <selected> and <input>
