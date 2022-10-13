@@ -21,11 +21,11 @@ Second is their Full Name.
 ### Functions to Convert Currency
 This function uses simple mathematics to evaluate desired currency.
 which is :
-let y, z be object and n, m be quantity
-1x = ny
-1x = mz
-then 1y = mz/n
-hence ky = k*mz/n
+let y, z be object and n, m be quantity  
+1x = ny  
+1x = mz  
+then 1y = mz/n  
+hence ky = k*mz/n  
 
 ### Function to Exhchange Currency
 This function replace the value inside both <selected> and <input>
