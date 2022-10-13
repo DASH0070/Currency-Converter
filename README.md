@@ -24,7 +24,7 @@ which is :
 let y, z be object and n, m be quantity  
 1*x = n*y  
 1*x = m*z  
-then 1*y = m*z/n  
+then 1*y = m*z/n   
 hence k*y = k*m*z/n  
 
 ### Function to Exhchange Currency
