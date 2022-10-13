@@ -19,8 +19,8 @@ First is a Number which represent how much of that currency will come in 1 Dolla
 Second is their Full Name.
 		
 ### Functions to Convert Currency
-This function uses simple mathematics to evaluate desired currency.
-which is :
+This function uses simple mathematics to evaluate desired currency.  
+which is :  
 let y, z be object and n, m be quantity  
 1x = ny  
 1x = mz  
